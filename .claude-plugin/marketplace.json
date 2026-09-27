@@ -1,0 +1,17 @@
+{
+  "name": "bybacon",
+  "owner": {
+    "name": "bacon",
+    "url": "https://github.com/bybacon"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by bacon."
+  },
+  "plugins": [
+    {
+      "name": "bacon",
+      "source": "./",
+      "description": "The bacon way of building software with Klaus: story workflow, bacon-tracker, example mapping, ADRs, reviews and Rails conventions."
+    }
+  ]
+}

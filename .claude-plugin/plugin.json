@@ -1,0 +1,9 @@
+{
+  "name": "bacon",
+  "description": "The bacon way of building software with Klaus: story workflow, bacon-tracker, example mapping, ADRs, reviews and Rails conventions.",
+  "author": { "name": "Alex Berger", "url": "https://github.com/bybacon" },
+  "homepage": "https://github.com/bybacon/bacon-for-klaus",
+  "repository": "https://github.com/bybacon/bacon-for-klaus",
+  "license": "MIT",
+  "keywords": ["workflow", "bdd", "stories", "rails", "bacon-tracker"]
+}
